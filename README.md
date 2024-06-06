@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm working on some projects<br>I'm interested on improve mi programming skills
+I am a student of the Bachelor's Degree in Information Systems<br>I'm working on some projects, personal or collaborating on others<br>I am interested in improving my programming skills and learning new tools<br>Future devops
 
 
 ## 🌐 Socials:
